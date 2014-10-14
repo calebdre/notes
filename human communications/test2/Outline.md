@@ -39,6 +39,18 @@
 		* develop 3 main points
 	+ organizational pattern
 		* logically organize the ideas
+	+ Delivery
+	+ Volume
+		* commands attention
+		* shows emotions
+	+ **Pronunciation is important**
+	+ Body  + Presentation
+	+ Movement + Gestures
+
+- Rhetoric
+	+ logos - logic
+	+ pathos - emotion
+	+ ethos - character
 
 - Attention to Retention
 	+ people need reminders to remind them where they're at
