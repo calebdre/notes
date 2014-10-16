@@ -3,7 +3,7 @@
 ## Peter Carruthers
 
 
->Answer  to the mind-body problem
+>Answer  to the mind-body problem:
 > - Reductive materialism. He calls it identity-theory, or that the mind just is the brain.
 
 - Identity-theory argument
