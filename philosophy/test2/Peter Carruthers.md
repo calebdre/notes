@@ -1,4 +1,4 @@
-# 10/14
+# 10/14 && 10/16
 
 ## Peter Carruthers
 
@@ -31,3 +31,18 @@ Carruthers says to disprove that the mind and body are not the same through Leib
 
 #### Objection 8 *(look at document from D2L)*
 ** how do you know that the mind doesn't take up space? (second premise) **
+
+### Two Arguments
+**The Closure Argument**
+> 1. the only way a physical event can be caused to occur is by anotther physical event (call this closure of physical causation)
+> 2. the mind can sometimes cause physical events to occur
+> 3. therefore, the mind must be physical 
+
+**The Identity Argument**
+> 1. In order for two objects to be different, they must have different properties (Leibniz's Law)
+> 2. The mind and the brain do not have different properties
+> 3. therefore, the mind and the brain must be identical (the identity thesis)
+> 
+
+> ## Conclusion
+>  there's good reason to believe identity thesis to be true and no reason to believe it false. so physicalism is true
