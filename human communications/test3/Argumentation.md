@@ -33,11 +33,11 @@ Starting points for being reasonable
     + we have to have something in common that we can argue from
 
 ## Argumentation Model (pg. 370)
-Starts with a claim
-needs grounds (support)
-conclusion (beginning with since and ties with support and ends with claim)
-backing - takes in the support and makes it have clout (specific/official statistic, support)
-qualifiers -  persistence (always, sometimes, in certain situations)
+Starts with a claim  
+needs grounds (support)  
+conclusion (beginning with since and ties with support and ends with claim)  
+backing - takes in the support and makes it have clout (specific/official statistic, support)  
+qualifiers -  persistence (always, sometimes, in certain situations)  
 
-Rebutle - other person does the above steps 
-reservation - a qualification of other claim that answers the other claim
+Rebutle - other person does the above steps     
+reservation - a qualification of other claim that answers the other claim  
