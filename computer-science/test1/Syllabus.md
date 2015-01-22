@@ -1,4 +1,4 @@
-# 1/12 - Day 1
+# 1/12 - Syllaubs
 [Course home page](http://cs.gsu.edu/lhenry/)  
 [More Stuff](http://www.cs.gsu.edu/~lhenry/?q=node/548)  
 

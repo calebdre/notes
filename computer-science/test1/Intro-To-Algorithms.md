@@ -1,4 +1,4 @@
-# 1/14 - Day 2
+# 1/14 - Intro to Algorithms
 
 The role of a Algorithms
 - An algorithm is a set of instructions that defines how to perform a task.
