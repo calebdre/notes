@@ -46,5 +46,11 @@ supplied
 - Quantity supplied = Quantity Demanded
 
 #### Consumer and Producer Surplus
-- ***Consumer Surplus***:  The difference between the maximum price a buyer is able and willing to pay for a product and the market price
-- ***Producer Surplus***: The difference between the minimum price the producer is willing to accept for a good or service and the market price (the price the seller actually receives)
+- ***Consumer Surplus***:  The difference between the maximum price a buyer is able and willing to pay for a product and the equilibrium price
+- ***Producer Surplus***: The difference between the minimum price the producer is willing to accept for a good or service and the equilibrium price (the price the seller actually receives)
+
+#### Small open Economy
+- when a country starts exporting goods from their economy, those goods get a price increase because it is assumed that the other country has a shortage of that good, so the exporter can sell their good at a higher price.
+    + The difference between quantity supplied of a world producer and the quantity supplied represents the country's export
+- when a country introduces imported goods into their economy, those goods get a price drop because foreign companies who can sell it cheaper have been added to the competition
+    + The difference between quantity supplied of a world producer and the quantity supplied represents the country's imports
