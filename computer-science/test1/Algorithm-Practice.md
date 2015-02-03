@@ -30,7 +30,7 @@ An algorithm to find the largest among three numbers entered by the user
 6. print largest to the user
 7. stop
 
-An algrorithm to find the factorial of a number
+An algroithm to find the factorial of a number
 1. start
 2. take input
 3. set factorial to input x
