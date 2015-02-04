@@ -40,3 +40,17 @@ convert 207
     + 0100 1101 1010 1001
 - Convert 1001 0001 0011 1111
     + 913F
+
+#### Base 10 Conversion
+- convert 10 base 10 to binary
+    + take the modulus of 2 and the divide by 2. Get the remainder and add to the binary value and then take the dividend and as the next number
+    + 10 % 2 = 0, 10 / 2 = 5
+    + 5 % 2 = 1, 5 / 2 = 2
+    + 2 % 2 = 0, 2 / 2 = 1
+    + 1 % 2 = 1, 1 /2 = 0
+    + answer: 0101
+
+- convert 1011 to base 10
+    + 1 * 2^3 + 0 * 2^2 + 1 * 2^1 + 1 * 2^0
+    + 8 + 0 + 2 + 1
+    + 11
