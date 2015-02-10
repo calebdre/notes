@@ -1,5 +1,7 @@
 # Binary Conversion - 1/28
 
+[conversion table](http://www.rapidtables.com/convert/number/how-hex-to-binary.htm)
+
 Convert a decimal to binary
 1. divide the value by two and record the remainder
 2. As long as the quotient obtained is not zero, continue to divide the newest quotient by two and record the remainder
@@ -51,6 +53,47 @@ convert 207
     + answer: 0101
 
 - convert 1011 to base 10
-    + 1 * 2^3 + 0 * 2^2 + 1 * 2^1 + 1 * 2^0
+    + (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (1 * 2^0)
     + 8 + 0 + 2 + 1
     + 11
+
+#### Negative Binary Numbers
+- represent -2 as a binary number
+    + 1010 (it's notmall 0010, but the 1 at the front makes it a negative number)
+- add: -3 + -2
+    + 1101
+- add: 7 + -5
+    + 0010
+- convert -28 to binary
+    - find out 28: 00011100
+    - invert the digits: 11100011
+    - add 1 (0001)
+    - 11100100
+
+questions:
+- when would you need to use Two's compliment (to find the inverse)?
+- how would you write -8? (becacuse it begins with 1)
+- how would you add -5 + -6? -9 + -9?
+
+
+### Binary Fractions
+- convert 101.1101 to decimal
+    + numbers to the right of decimal are to the negative power
+    + (1 * 2^2) + (0 * 2^1) + (1 * 2^0) + (1 * 2^-1) + (1*2^-2) + (0 * 2^-3) * (1 * 2^-4)  = 5.8125
+- convert 111.111 to decimal
+    + (1 * 2^2) + (1 * 2^1) + (1 * 2^0) + (1 * 2^-1) + (1 * 2^-2) + (1 * 2^-3) = 7.875
+- convert 13.6875 to binary
+    + separate the number from the left and right
+    + 13 to binary = 1101
+    + for .6875, instead of dividing by 2, multiply by 2 (also, read down)
+    + so .6875 to binary is 1011
+    + 1101 1011
+
++ convert 32.45 to binary
+    + 32 / 2 -> 16,0 | 16 / 2 -> 8,0 | 8 / 2 -> 4,0 | 4 / 2 -> 2 | 2 / 2 -> 1,0 | 1 / 2 -> 0 , 1 = 100000
+    + .45 * 1 -> 0.9 | .9 * 2 = 1.8,
+
++ convert 53 to hex
+    + 
++ convert 19
+    +

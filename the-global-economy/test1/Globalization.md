@@ -3,9 +3,9 @@
 > *Economic globalization*: integration and interdependance of economies aronud the world  
 
 Measuring economic globalization
-1. Trade flows (trade in goods and services)
-2. Cross-border capital flows (foreign investments)
-3. Restrictions on trade and capital flows
+1. Trade flows (trade in goods and services)  
+2. Cross-border capital flows (foreign investments)  
+3. Restrictions on trade and capital flows  
     - *trade*:
         + import tariffs & quotas
     - *capital flows*:
@@ -64,19 +64,19 @@ Bank, and the International Monetary Fund (IMF).
 with legally binding obligations.
 
 Arguments for globalization
-1. Increased wealth of nations (because all countries benefit from trade)
-2. Efficient production due to specialization
-3. Transfer of technology and knowledge
-4. Foreign direct investment increases employment
-5. Growing strength of the civil society
-6. Less possibility of war
-7. Increased cultural exposure
+1. Increased wealth of nations (because all countries benefit from trade)  
+2. Efficient production due to specialization  
+3. Transfer of technology and knowledge  
+4. Foreign direct investment increases employment  
+5. Growing strength of the civil society  
+6. Less possibility of war  
+7. Increased cultural exposure  
 
 Arguments against globalization
-1. Increased income gap between the poor and the rich (benefits are not equally distributed because of problems with the home country like corruption and nepotism)
-2. The growing power of multinational companies
-3. Increased competition can lead to a “race to the bottom”
+1. Increased income gap between the poor and the rich (benefits are not equally distributed   because of problems with the home country like corruption and nepotism)  
+2. The growing power of multinational companies  
+3. Increased competition can lead to a “race to the bottom”  
     - countries lower their conditions in order to provide a lower cost environment for international companies to be there and they compete with other countries
-4. Adverse effects on the environment and working standards
-5. Loss of cultural identity
-6. Undesirable international flows
+4. Adverse effects on the environment and working standards  
+5. Loss of cultural identity  
+6. Undesirable international flows  
