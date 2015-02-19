@@ -5,14 +5,14 @@
 #### Import tariffs
 - A tariff is a tax imposed on goods traded across countries.
 - An import tariff is levied on imports by an importing country.
-    + Protectionism
-    + Infant Industry Argument
-        * infant industries can't compete with big corporations, so countries put import tariffs on to protect them.
+	+ Protectionism
+	+ Infant Industry Argument
+		* infant industries can't compete with big corporations, so countries put import tariffs on to protect them.
 - Effect of an import tariff:  is to increase the price of the good in the importing country
 - A higher price is good for domestic producers but hurts domestic customers
-    + Domestic production of the good increases while domestic
-    consumption of the good falls.
-    + The amount of imports decreases
+	+ Domestic production of the good increases while domestic
+	consumption of the good falls.
+	+ The amount of imports decreases
 
 #### Types of tariffs
 -  ad valorem tariff:  fixed percentage of the value of imports. 
@@ -43,11 +43,33 @@
 
 #### Non-tariff trade regulations
 - **import quota** is a quantitative limit on the amount of a good that can be imported into a country. 
-    + absolute:  limits the amount of a good that may enter the country in a given period of time, usually one year.
-    + tariff-rate: allows a specified amount of a good (quota) to be imported into the country at a reduced tariff rate (could be zero percent tariff) and a higher tariff rate for imports exceeding the quota in a given quota period
+	+ absolute:  limits the amount of a good that may enter the country in a given period of time, usually one year.
+	+ tariff-rate: allows a specified amount of a good (quota) to be imported into the country at a reduced tariff rate (could be zero percent tariff) and a higher tariff rate for imports exceeding the quota in a given quota period
 - effects:
-    + reduces the total supply of a good in the importing country
-    + Given the demand for the good, reduced supply means a higher domestic price of the imported good.
+	+ reduces the total supply of a good in the importing country
+	+ Given the demand for the good, reduced supply means a higher domestic price of the imported good.
 
 #### Effects of an import quota
 - Quota rent: additional revenues to holders of import licenses. When the domestic price of an imported good increase as a result of the quota, importers who hold import licenses collect a higher per unit price. 
+
+#### Voluntary export restraints (VER)
+- trade quotas imposed by the exporting country usually at the request of the importing country
+- holds down imports from the perspective of the importing country
+- Not an efficient way to regulate imports
+	+ since the quantity of the items go down and revenue needs to stay the same, the prices go up for the product
+	+ import country might impose a tariff and this could lead to trade wars
+- benefits:
+	+ Producers in the exporting country capture quota rents equivalent
+		revenues.
+	+ Producers in the exporting country may not want to
+		subject themselves to the whims of politicians in the
+		importing country.
+
+#### Export Subsidies
+- subsidy granted by gov't to producers who export their products to foreign markets
+- "negative tax"
+- effects
+	+  reduces the supply of the good on the domestic market (exporting country) and therefore raises the domestic price of the good
+	+  [in large country] world prices would fall as a result of increased supply of the good, so
+		*  domestic consumers are worse off because producers want to export their products instead of sell at home
+		*  foreign consumers benefit from lower world prices resulting from the export subsidy
