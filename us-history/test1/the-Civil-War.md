@@ -25,7 +25,7 @@
 - His first words as president: he was not an abolishonist; he just wanted to stop its expansion.
   + ** at his inaugural address: his first and foremost goal is to maintain the union  (this is what the war was about for him)**
 
-### The war
+### The Civil War
 - 1861 is when war breaks out.
 - the south thinks that the war will be short, but Lincoln knows that it will be long
 
