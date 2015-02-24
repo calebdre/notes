@@ -15,7 +15,7 @@
 	+ The amount of imports decreases
 
 #### Types of tariffs
--  ad valorem tariff:  fixed percentage of the value of imports. 
+-  ad valorem tariff:  fixed percentage of the value of imports.
 -  specific tariff: fixed amount of current units per unit of imports
 -  combination (compound) tariff: combination of ad valorem and specific tariffs
 
@@ -25,7 +25,7 @@
 - The extent of the increase in the domestic price of the imported good for a given tariff depends on the relative influence of the country imposing the tariff on the global market for the imported product (a small country versus a large country tariff).
 
 #### Small country tariff
--  small country: consumption and/or production cannot affect the world price of the good it imports. 
+-  small country: consumption and/or production cannot affect the world price of the good it imports.
 -  small country takes the world price of a good as a give
 -  A forward-shifted tax is the portion of the tax paid by the buyer (added to the price paid by the buyer).
 - A backward-shifted tax is the portion of the total tax paid by the seller (subtracted from the seller’s revenues).
@@ -42,7 +42,7 @@
 - The volume of imports (domestic quantity demanded – domestic quantity supplied) falls.
 
 #### Non-tariff trade regulations
-- **import quota** is a quantitative limit on the amount of a good that can be imported into a country. 
+- **import quota** is a quantitative limit on the amount of a good that can be imported into a country.
 	+ absolute:  limits the amount of a good that may enter the country in a given period of time, usually one year.
 	+ tariff-rate: allows a specified amount of a good (quota) to be imported into the country at a reduced tariff rate (could be zero percent tariff) and a higher tariff rate for imports exceeding the quota in a given quota period
 - effects:
@@ -50,7 +50,7 @@
 	+ Given the demand for the good, reduced supply means a higher domestic price of the imported good.
 
 #### Effects of an import quota
-- Quota rent: additional revenues to holders of import licenses. When the domestic price of an imported good increase as a result of the quota, importers who hold import licenses collect a higher per unit price. 
+- Quota rent: additional revenues to holders of import licenses. When the domestic price of an imported good increase as a result of the quota, importers who hold import licenses collect a higher per unit price.
 
 #### Voluntary export restraints (VER)
 - trade quotas imposed by the exporting country usually at the request of the importing country
