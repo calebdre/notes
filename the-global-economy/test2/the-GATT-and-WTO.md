@@ -1,4 +1,5 @@
 # The GATT and the WTO
+[class notes](https://gsu.view.usg.edu/content/enforced1/892076-CO.090.ECON2100.11224.20154/Lecture7_GATTandWTO%20ECON2100.pdf?d2lSessionVal=O3LsBP7At8j1LUr8sgYEqD5F7&ou=892076)
 
 ### Efforts to reduce trade barriers
 - Countries try to reduce trade barriers because barriers to trade are inefficient.
