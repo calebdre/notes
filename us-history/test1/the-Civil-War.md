@@ -38,6 +38,7 @@
 ### The Emancipation Proclamation
 - This document did not free the slaves - only the ones in the conferderacy
   + this was done in hopes that the freed slave would come and fight for the Union
+  + runaway slaves could now come join the union army
 - this also changed the perspective of the war
   + after the document was released, people began to understand that the war was no about preserving the union anymore - it was about slavery
 
